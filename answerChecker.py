@@ -11,7 +11,7 @@ from scipy.stats import skew
 
 dataList = []
 
-numberData = str(input("Number of Data : "))
+numberData = int(input("Number of Data : "))
 
 for x in range(0,numberData):
     data = float(input("Data " + str(x + 1) + " : "))

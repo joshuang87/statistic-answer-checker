@@ -1,4 +1,4 @@
-# Enviroment Setup
+# Environment Setup
 ## Install Python
 Install Python from https://www.python.org/
 ## Install numpy

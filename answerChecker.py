@@ -29,7 +29,7 @@ interquartileRange = q3 - q1
 
 dataRange = max(dataList) - min(dataList)
 
-# Skewness is not comform either the question demand adjusted or unadjusted skewness
+# Skewness is not conform either the question demand adjusted or unadjusted skewness
 # Default == (bias=true) -> unadjusted
 skewness = skew(dataList)
 

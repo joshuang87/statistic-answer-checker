@@ -35,7 +35,7 @@ skewness = skew(dataList)
 
 print(" ")
 print("Data List : " ,dataList)
-print(" ")
+print("jsjsj ")
 
 answer = ("Mean : {:.4f}\nMedian : {}\nPopulation Std : {:.4f}\nSample Std : {:.4f}\nPopulation Varc : {:.4f}\nSample Varc : {:.4f}\nInterquartile Range : {:.4f}\nRange : {:.4f}\nSkewness : {:.4f}\n")
 
